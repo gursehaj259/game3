@@ -28,8 +28,8 @@ draw_set_colour($FF43FF26 & $ffffff);draw_set_alpha(1);
 /// @DnDHash : 59AE76A7
 /// @DnDArgument : "x" "12"
 /// @DnDArgument : "y" "13"
-/// @DnDArgument : "caption" ""Woodscollect""
-draw_text(12, 13, string("Woodscollect") + "");
+/// @DnDArgument : "caption" ""Woodscollect 5""
+draw_text(12, 13, string("Woodscollect 5") + "");
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprites_Stacked
 /// @DnDVersion : 1
